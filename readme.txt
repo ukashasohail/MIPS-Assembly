@@ -18,4 +18,13 @@ code17 -> nested functions
 code18 -> user input in integer
 code19 -> user input in float
 code20 -> user input in doubles
-
+code21 -> user input in text
+code22 ->
+code23 ->
+code24 ->
+code25 ->
+code26 ->
+code27 ->
+code28 ->
+code29 ->
+code30 ->
