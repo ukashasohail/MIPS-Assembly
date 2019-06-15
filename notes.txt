@@ -2,8 +2,8 @@ code01 -> hello world
 code02 -> printing a character
 code03 -> printing an integer
 code04 -> printing a float
-code05 -> 
-code06 -> 
+code05 -> printing doubles
+code06 -> addition of integers and printing answer
 code07 -> 
 code08 -> 
 code09 -> 
