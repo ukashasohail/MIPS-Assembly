@@ -1,0 +1,10 @@
+code01 -> hello world
+code02 -> printing a character
+code03 -> printing an integer
+code04 -> 
+code05 -> 
+code06 -> 
+code07 -> 
+code08 -> 
+code09 -> 
+code10 -> 
