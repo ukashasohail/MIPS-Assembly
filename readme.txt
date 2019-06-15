@@ -21,8 +21,8 @@ code20 -> user input in doubles
 code21 -> user input in text
 code22 -> if statements, check if numbers are equl or not
 code23 -> checking if number is less than other (slt)
-code24 -> 
-code25 ->
+code24 -> psuedo branch instructions
+code25 -> while loop
 code26 ->
 code27 ->
 code28 ->
