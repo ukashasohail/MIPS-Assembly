@@ -20,8 +20,8 @@ code19 -> user input in float
 code20 -> user input in doubles
 code21 -> user input in text
 code22 -> if statements, check if numbers are equl or not
-code23 ->
-code24 ->
+code23 -> checking if number is less than other (slt)
+code24 -> 
 code25 ->
 code26 ->
 code27 ->
