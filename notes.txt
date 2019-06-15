@@ -5,6 +5,6 @@ code04 -> printing a float
 code05 -> printing doubles
 code06 -> addition of integers and printing answer
 code07 -> subtraction of integers and printing answer 
-code08 -> multiplying 2 integers
-code09 -> 
-code10 -> 
+code08 -> multiplying 2 integers using mul
+code09 -> multiplying 2 integers using mult
+code10 -> multiplying using sll instruction
