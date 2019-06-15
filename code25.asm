@@ -1,6 +1,6 @@
 .data
 
-
+    name: .asciiz "ukasha\n"
 
 .text
 
@@ -9,7 +9,21 @@
 
 main:
 
+    addi $t0, $0, 0 # i=0
 
+    while:
+
+        bgt $t0, 10, out
+
+        li $v0, 4
+        la $a0, name
+        syscall
+
+        addi $t0, $t0, 1
+
+        j while
+
+    out:
 
     li $v0, 10
     syscall
