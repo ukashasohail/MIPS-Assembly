@@ -1,7 +1,7 @@
 code01 -> hello world
 code02 -> printing a character
 code03 -> printing an integer
-code04 -> 
+code04 -> printing a float
 code05 -> 
 code06 -> 
 code07 -> 
