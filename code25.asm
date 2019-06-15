@@ -19,6 +19,10 @@ main:
         la $a0, name
         syscall
 
+        li $v0, 1
+        move $a0, $t0
+        syscall
+
         addi $t0, $t0, 1
 
         j while
