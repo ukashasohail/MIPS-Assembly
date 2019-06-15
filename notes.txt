@@ -12,7 +12,7 @@ code11 -> dividing integers using div 3 registers
 code12 -> dividing integers using div 3 registers with immediate value
 code13 -> dividing integers using div 2 registers mfhi mflo
 code14 -> functions
-code15 -> 
+code15 -> add function
 code16 -> 
 code17 -> 
 code18 -> 
