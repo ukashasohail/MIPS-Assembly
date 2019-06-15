@@ -1,6 +1,6 @@
 .data
 
-    list: .word 100:5
+    list: .word 10, 20, 30, 40, 50
     space: .asciiz "\n"
 .text
 
