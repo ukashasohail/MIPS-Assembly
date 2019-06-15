@@ -4,7 +4,7 @@ code03 -> printing an integer
 code04 -> printing a float
 code05 -> printing doubles
 code06 -> addition of integers and printing answer
-code07 -> 
-code08 -> 
+code07 -> subtraction of integers and printing answer 
+code08 -> multiplying 2 integers
 code09 -> 
 code10 -> 

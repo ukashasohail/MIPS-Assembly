@@ -16,6 +16,7 @@ main:
     addi $s0, $0, 10 # s0 = 10
     addi $s1, $0, 5 # s0 = 5
 
+    # there is restriction in mul can maximum multiply 16 bit numbers
     mul $t0, $s0, $s1 # t0 = s0*s1 => 50
 
     #displaying the result
