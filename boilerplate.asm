@@ -4,11 +4,11 @@
 .text
 
 .globl main
-
 .ent main
 
 main:
 
-    jr $ra
+    li $v0, 10
+    syscall
 
 .end main
