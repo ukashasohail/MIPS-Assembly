@@ -24,7 +24,7 @@ code23 -> checking if number is less than other (slt)
 code24 -> psuedo branch instructions
 code25 -> while loop
 code26 -> arrays
-code27 ->
+code27 -> arrays with while loop
 code28 ->
 code29 ->
 code30 ->
