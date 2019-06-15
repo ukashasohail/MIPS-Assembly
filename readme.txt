@@ -23,7 +23,7 @@ code22 -> if statements, check if numbers are equl or not
 code23 -> checking if number is less than other (slt)
 code24 -> psuedo branch instructions
 code25 -> while loop
-code26 ->
+code26 -> arrays
 code27 ->
 code28 ->
 code29 ->
