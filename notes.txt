@@ -14,7 +14,7 @@ code13 -> dividing integers using div 2 registers mfhi mflo
 code14 -> functions
 code15 -> add function
 code16 -> save registers to stack
-code17 -> 
+code17 -> nested functions
 code18 -> 
 code19 -> 
 code20 -> 
