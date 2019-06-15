@@ -8,3 +8,13 @@ code07 -> subtraction of integers and printing answer
 code08 -> multiplying 2 integers using mul
 code09 -> multiplying 2 integers using mult
 code10 -> multiplying using sll instruction
+code11 -> dividing integers using div 3 registers 
+code12 -> dividing integers using div 2 registers
+code13 -> 
+code14 -> 
+code15 -> 
+code16 -> 
+code17 -> 
+code18 -> 
+code19 -> 
+code20 -> 
