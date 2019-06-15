@@ -9,8 +9,8 @@ code08 -> multiplying 2 integers using mul
 code09 -> multiplying 2 integers using mult
 code10 -> multiplying using sll instruction
 code11 -> dividing integers using div 3 registers 
-code12 -> dividing integers using div 2 registers
-code13 -> 
+code12 -> dividing integers using div 3 registers with immediate value
+code13 -> dividing integers using div 2 registers mfhi mflo
 code14 -> 
 code15 -> 
 code16 -> 
