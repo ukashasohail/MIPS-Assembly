@@ -19,7 +19,7 @@ code18 -> user input in integer
 code19 -> user input in float
 code20 -> user input in doubles
 code21 -> user input in text
-code22 ->
+code22 -> if statements, check if numbers are equl or not
 code23 ->
 code24 ->
 code25 ->
