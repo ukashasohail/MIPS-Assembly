@@ -15,6 +15,6 @@ code14 -> functions
 code15 -> add function
 code16 -> save registers to stack
 code17 -> nested functions
-code18 -> user input
-code19 -> 
+code18 -> user input in integer
+code19 -> user input in float
 code20 -> 
