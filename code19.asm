@@ -1,5 +1,6 @@
 .data
 
+    prompt: .asciiz "enter value of pi: "
 
 .text
 
@@ -8,6 +9,7 @@
 
 main:
 
-    jr $ra
+    li $v0, 10
+    syscall
 
 .end main
